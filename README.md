@@ -24,5 +24,5 @@ The **Astronaut Helper Bot** provides a high-performance web interface integrate
 ### Installation & Launch
 1. **Clone the repository:**
    ```bash
-   git clone github.com
-   cd astronaut-helper-bot
+   git clone https://github.com/Pritam-pixel-coder/Astro_ai.git
+   cd Astro_ai
